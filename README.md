@@ -1,7 +1,7 @@
 # ⚡ Awesome Real-Time Streaming Data Platform
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform?style=social" alt="Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform?style=social" alt="Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform" alt="Issues"/></a> <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform?style=social" alt="Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform?style=social" alt="Forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform" alt="Issues"/></a> <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ![Awesome Real-Time Streaming Data Platform Banner](assets/banner.svg)
@@ -24,6 +24,8 @@ This directory tracks notable **commercial real-time streaming data platforms** 
 - [☁️ SaaS / Hosted Streaming Data Platforms](#️-saas--hosted-streaming-data-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -132,6 +134,24 @@ We welcome community contributions! Follow these steps:
 4. 🚀 **Submit a Pull Request (PR)** with a clear title and description.
 
 ⭐ **Don't forget to star this repository if you find it helpful!**
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this real-time streaming data platform resource valuable, please consider supporting the project:
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute new tools, platforms, or data processing frameworks.
+- 📢 **Share** this list with fellow data engineers, architects, and platform engineering teams.
+- ☕ **Sponsor / Buy Me a Coffee:** Support ongoing maintenance and curation via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-ishandutta2007-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Real-Time-Streaming-Data-Platform&type=date&legend=top-left)
 
 ---
 
